@@ -1,6 +1,6 @@
 # Color Flipper
 
-
+A background color flipper made with HTML, CSS and JavaScript.
 
 ### The challenge
 
