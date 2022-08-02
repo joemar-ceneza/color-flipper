@@ -1,6 +1,6 @@
 # Color Flipper
 
-<img align="center" width="100" height="100" src="http://www.fillmurray.com/100/100](https://user-images.githubusercontent.com/20262557/182273128-cc5477c0-0773-46d1-b3d9-d13e108521ff.gif">
+<img align="center" width="100" height="100" src="https://user-images.githubusercontent.com/20262557/182273128-cc5477c0-0773-46d1-b3d9-d13e108521ff.gif">
 
 A background color flipper made with HTML, CSS and JavaScript.
 
