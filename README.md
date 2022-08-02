@@ -9,7 +9,7 @@ A background color flipper made with HTML, CSS and JavaScript.
 Users should be able to:
 
 - Change the background color of the body element by clicking the button
-- Use function to get a random number
+- Used function to get a random number
 
 ### Resources
 
