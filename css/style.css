@@ -1,0 +1,123 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: "Montserrat", sans-serif;
+  font-size: 1rem;
+}
+
+.container {
+  width: 100%;
+  margin: 0 auto;
+  max-width: 1100px;
+}
+
+#color-flipper {
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+  background-color: #fff;
+}
+#color-flipper .navigation-bar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+#color-flipper .navigation-bar .logo {
+  font-size: 0.8rem;
+  text-transform: capitalize;
+  font-size: 1.5rem;
+  padding: 1rem 0;
+}
+#color-flipper .navigation-bar ul {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+#color-flipper .navigation-bar ul li {
+  list-style: none;
+  padding: 0 2rem;
+}
+#color-flipper .navigation-bar ul li a {
+  text-decoration: none;
+  color: #222;
+  text-transform: capitalize;
+  font-weight: 500;
+}
+
+main {
+  min-height: calc(100vh - 4rem);
+  display: grid;
+  place-items: center;
+}
+main .color-flipper-main {
+  text-align: center;
+}
+main .color-flipper-main h2 {
+  font-size: 2rem;
+  letter-spacing: 2px;
+  text-transform: capitalize;
+  background-color: rgb(59, 56, 56);
+  color: #fff;
+  padding: 0.5em;
+  border-radius: 30px;
+}
+main .color-flipper-main h2 .color {
+  color: rgb(132, 132, 212);
+  text-transform: lowercase;
+}
+main .color-flipper-main #btn {
+  margin: 2em 0;
+  padding: 1em 2em;
+  font-size: 1rem;
+  font-weight: 700;
+  letter-spacing: 1.5px;
+  text-transform: uppercase;
+  border-radius: 30px;
+  cursor: pointer;
+}
+main .color-flipper-main #btn:hover {
+  background-color: rgb(59, 56, 56);
+  color: #fff;
+  transition: 0.5s;
+}
+
+@media (max-width: 1200px) {
+  .container {
+    max-width: 800px;
+  }
+}
+@media (max-width: 900px) {
+  .container {
+    max-width: 400px;
+  }
+  #color-flipper .navigation-bar .logo h1 {
+    font-size: 1.2rem;
+  }
+  #color-flipper .navigation-bar ul li {
+    font-size: 0.75rem;
+  }
+  main .color-flipper-main h2 {
+    font-size: 1.3rem;
+    padding: 0.65em;
+  }
+  main .color-flipper-main #btn {
+    font-size: 0.7rem;
+  }
+}
+@media (max-width: 480px) {
+  #color-flipper .navigation-bar {
+    flex-direction: column;
+  }
+  #color-flipper .navigation-bar ul li {
+    padding: 1em 2rem 2rem 2rem;
+  }
+  main .color-flipper-main h2 {
+    font-size: 1rem;
+    padding: 0.5em 1rem 0.5em 1em;
+  }
+  main .color-flipper-main #btn {
+    font-size: 0.5rem;
+  }
+}/*# sourceMappingURL=style.css.map */
