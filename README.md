@@ -1,5 +1,7 @@
 # Color Flipper
 
+![color-flipper-image](https://user-images.githubusercontent.com/20262557/182349110-4bef41f8-87ef-45a6-b82d-22f7282b8177.JPG)
+
 A background color flipper made with HTML, CSS and JavaScript.
 
 ### The challenge
