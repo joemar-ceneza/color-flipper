@@ -23,7 +23,7 @@ Users should be able to:
 
 ### Screenshot
 
-[![color-flipper-gif](https://user-images.githubusercontent.com/20262557/184585962-d7f34296-dc99-4e12-899b-91a1541149a5.JPG)](https://joemar-ceneza.github.io/color-flipper/)
+[![color-flipper-gif](https://user-images.githubusercontent.com/20262557/184585293-c598e89a-239c-43ac-899e-e89a3f95a521.gif)](https://joemar-ceneza.github.io/color-flipper/)
 
 ### Links
 
@@ -38,6 +38,9 @@ Users should be able to:
 - CSS, Sass
 - Flexbox
 - Desktop First Workflow
+- JavaScript
+- Math.floor and Math.random
+- *nodelist*.length
 
 ### Useful resources
 
