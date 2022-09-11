@@ -11,6 +11,9 @@ A background color flipper made with HTML, CSS/Sass and JavaScript.
 - [My process](#my-process)
   - [Built with](#built-with)
   - [Useful resources](#useful-resources)
+- [Front End Style](#front-end-style-guide)
+- [Colors](#colors)
+- [Typography](#typography)
 
 ## Overview
 
