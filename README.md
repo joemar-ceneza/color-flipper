@@ -1,6 +1,6 @@
 # Color Flipper
 
-A background color flipper made with HTML, CSS and JavaScript.
+A background color flipper made with HTML, CSS/Sass and JavaScript.
 
 ## Table of contents
 
@@ -11,6 +11,9 @@ A background color flipper made with HTML, CSS and JavaScript.
 - [My process](#my-process)
   - [Built with](#built-with)
   - [Useful resources](#useful-resources)
+- [Front End Style](#front-end-style-guide)
+- [Colors](#colors)
+- [Typography](#typography)
 
 ## Overview
 
@@ -23,7 +26,7 @@ Users should be able to:
 
 ### Screenshot
 
-[![color-flipper-gif](https://user-images.githubusercontent.com/20262557/184585293-c598e89a-239c-43ac-899e-e89a3f95a521.gif)](https://joemar-ceneza.github.io/color-flipper/)
+[![color-flipper-gif](https://user-images.githubusercontent.com/20262557/184802869-fa6dfc5b-466f-4998-a582-f990db9651f6.JPG)](https://joemar-ceneza.github.io/color-flipper/)
 
 ### Links
 
